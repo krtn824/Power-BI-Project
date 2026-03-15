@@ -5,3 +5,4 @@ This Power BI project presents a comprehensive analysis and visualization of the
 The dashboard focuses on analyzing sales performance, product trends, and regional insights using interactive visualizations built in Power BI.
 
 This project was developed as a practical bonus project while completing the "Microsoft Power BI Desktop for Business Intelligence" course by Maven Analytics.
+
