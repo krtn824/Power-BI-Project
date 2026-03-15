@@ -14,3 +14,5 @@ This project was developed as a practical bonus project while completing the "Mi
  Data Collection & Transformation: Collected and imported 7 CSV files into Power BI. Performed data cleaning and transformation using Power Query, including creating   calculated columns, adjusting data types, and applying tools such as Date and Number functions to make the data ready for analysis in Power BI.
 
 Data Modeling: Created relationships between tables by identifying common columns and defining primary and foreign keys. Hidden foreign keys and kept primary keys visible, and updated formatting and categorization for relevant fields across all tables
+
+Adding DAX Measures:Created calculated columns, conditional columns, and measures using DAX. Verified the results by cross-checking with the expected solution to ensure accuracy.
