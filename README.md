@@ -16,3 +16,5 @@ This project was developed as a practical bonus project while completing the "Mi
 Data Modeling: Created relationships between tables by identifying common columns and defining primary and foreign keys. Hidden foreign keys and kept primary keys visible, and updated formatting and categorization for relevant fields across all tables
 
 Adding DAX Measures:Created calculated columns, conditional columns, and measures using DAX. Verified the results by cross-checking with the expected solution to ensure accuracy.
+
+Visualization Creation:Designed interactive dashboards and reports using charts, KPIs, slicers, maps, treemaps, Gauge Charts, and Matrix tables. Created bookmarks to highlight insights and enable interactive navigation.
