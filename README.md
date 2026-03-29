@@ -1,10 +1,8 @@
 Maven Market Analytics Dashboard
 # Project Overview
-This Power BI project presents a comprehensive analysis and visualization of the Maven Market dataset, a multi-national grocery chain with locations in Canada, Mexico, and the United States.
+This project presents a comprehensive analysis of the Maven Market dataset, a multi-national grocery retail chain operating across Canada, Mexico, and the United States.
 
-The dashboard focuses on analyzing sales performance, product trends, and regional insights using interactive visualizations built in Power BI.
-
-This project was developed as a practical bonus project while completing the "Microsoft Power BI Desktop for Business Intelligence" course by Maven Analytics.
+An interactive dashboard was developed using Power BI to analyze sales performance, product trends, and regional insights. The dashboard enables data-driven decision-making through dynamic visualizations, KPI tracking, and trend analysis across multiple regions.
 
 # Tools Used
 - Power BI Desktop
